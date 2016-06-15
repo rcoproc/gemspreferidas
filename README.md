@@ -16,3 +16,7 @@ https://github.com/fnando/pry-meta
 - Jbuilder: generate JSON objects with a Builder-style DSL
 
 https://github.com/rails/jbuilder
+
+- Official Sass port of Bootstrap 2 and 3. http://getbootstrap.com/css/#sass
+
+https://github.com/twbs/bootstrap-sass/tree/master/lib
