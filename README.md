@@ -1,6 +1,13 @@
 
 Relação das minhas Gems preferidas
 --
+
+- Flexible authentication solution for Rails with Warden<br>
+https://github.com/plataformatec/devise
+
+- Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup. <BR>
+https://github.com/plataformatec/simple_form
+
 - Squeel lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.<br>
 https://github.com/activerecord-hackery/squeel
 
