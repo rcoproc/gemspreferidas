@@ -8,6 +8,9 @@ https://github.com/plataformatec/devise
 - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup. <BR>
 https://github.com/plataformatec/simple_form
 
+- Continuation of CanCan, the authorization Gem for Ruby on Rails.
+https://github.com/CanCanCommunity/cancancan
+
 - Squeel lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.<br>
 https://github.com/activerecord-hackery/squeel
 
